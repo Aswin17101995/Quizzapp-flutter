@@ -75,7 +75,7 @@ class _QuizzState extends State<Quizz> {
       children: [
          if(!newQuiz.isQuizover())...[
          Expanded(flex: 5,child: Center(
-          child: Text(newQuiz.getQuestion(),style: TextStyle(
+          child: Text('${newQuiz.getQnumber() + 1} . ${newQuiz.getQuestion()}',style: TextStyle(
             color: Colors.white,
             fontSize: 30,
           ),),

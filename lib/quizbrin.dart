@@ -49,4 +49,7 @@ class QuizBrain{
   void restartQuiz(){
     _qNumber = 0;
   }
+  int getQnumber(){
+    return _qNumber;
+  }
 }
