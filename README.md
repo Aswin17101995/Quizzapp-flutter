@@ -1,6 +1,10 @@
 # quizzler
 
 A new Flutter project.
+class is used 
+learnt abstraction , encapsulation
+
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/78901936/214497911-7ac39925-3a1e-471d-b27b-36c38369567d.png">
 
 ## Getting Started
 
